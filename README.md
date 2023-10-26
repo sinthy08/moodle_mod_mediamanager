@@ -1,1 +1,1 @@
-# -moodle_mod_media-manager
+# moodle_mod_media-manager
